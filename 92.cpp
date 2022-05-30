@@ -12,7 +12,7 @@ void myfunc(int i) throw (int,char,double)
     if(i==2)
         throw 'e';
 }
-
+//if this function attempts to throw any other type of exception, then an abnormal termination will occur. Remove int from the list and run the program.
 int main()
 {
     cout<<"Beginning of the program"<<endl;
