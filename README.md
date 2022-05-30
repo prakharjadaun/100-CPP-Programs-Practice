@@ -95,3 +95,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 91. Exception Handling : Catching all exceptions with a single catch block.
 92. Exception Handling : Restricting Exceptions.
 93. Exception Handling : Rethrowing an Exception.
+94. Exception Handling : Setting a new terminate handler.
