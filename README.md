@@ -10,3 +10,5 @@ This repository contains all the practice programs that I have implemented in C/
 6. Program to find sum of digits.
 7. Reverse a number.
 8. Swap Numbers in C.
+9. Program without main.
+10. Program for decimal to binary.
