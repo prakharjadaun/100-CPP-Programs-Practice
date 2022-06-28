@@ -7,3 +7,6 @@ This repository contains all the practice programs that I have implemented in C/
 3. Check if number is palindrome or not.
 4. Find factorial of the number.
 5. Check if a number is Armstrong number.
+6. Program to find sum of digits.
+7. Reverse a number.
+8. Swap Numbers in C.
