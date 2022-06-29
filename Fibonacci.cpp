@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //fibonacci series 
+    //fibonacci series : first 12 numbers
     int var=1;
     int temp=0,res;
     cout<<"fibonacci series : 0 1";
