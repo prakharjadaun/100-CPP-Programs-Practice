@@ -12,3 +12,13 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 8. Swap Numbers in C.
 9. Program without main.
 10. Program for decimal to binary.
+11. Check if number is positive or negative
+12. Program to find greatest of 3 numbers.
+13. Program to get ascii value.
+14. Program to demonstrate sizeof function.
+15. Program to check for leap year.
+16. Program to convert upper case to lower case.
+17. Program to convert lower case to upper case.
+18. Program to get string length.
+19. Program to concatenate 2 strings.
+20. Program to get largest element in an array.
