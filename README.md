@@ -33,4 +33,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 29. Program to generate random number.
 30. Program to check if strings are anagram.
 31. Program to toggle case.
-32. Program to get number of vowels and consonant.
+32. Program to get number of vowels and consonants.
