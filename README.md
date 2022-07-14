@@ -37,3 +37,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 33. Demonstrating Vectors.
 34. Insertion and Deletion in vectors.
 35. Demonstrating the functions of cctype library.
+36. Demonstrating the list library.
