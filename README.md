@@ -34,12 +34,12 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 30. Program to check if strings are anagram.
 31. Program to toggle case.
 32. Program to get number of vowels and consonants.
-33. Demonstrating Vectors.
-34. Insertion and Deletion in vectors.
-35. Demonstrating the functions of cctype library.
-36. Demonstrating the list library.
-37. Understanding the use of end() func. under the list.
-38. Sorting a list.
-39. Using a Map.
-40. Understaing queues of std library.
-41. Understanding the Deque functions of the STL library.
+33. STL: Demonstrating Vectors.
+34. STL: Insertion and Deletion in vectors.
+35. STL: Demonstrating the functions of cctype library.
+36. STL: Demonstrating the list library.
+37. STL: Understanding the use of end() func. under the list.
+38. STL: Sorting a list.
+39. STL: Using a Map.
+40. STL: Understaing queues of std library.
+41. STL: Understanding the Deque functions of the STL library.
