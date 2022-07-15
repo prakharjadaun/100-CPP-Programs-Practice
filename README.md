@@ -42,3 +42,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 38. Sorting a list.
 39. Using a Map.
 40. Understaing queues of std library.
+41. Understanding the Deque functions of the STL library.
