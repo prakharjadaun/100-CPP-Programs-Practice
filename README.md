@@ -44,3 +44,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 40. STL: Understaing queues of std library.
 41. STL: Understanding the Deque functions of the STL library.
 42. STL : Understanding the bitset.
+43. STL : Priority Queue
