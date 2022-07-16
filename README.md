@@ -47,3 +47,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 43. STL : Priority Queue
 44. STL : Understanding properties of Sets
 45. STL : Stack Functions
+46. STL : Understanding *min_element(), *max_element(), sort(), reverse() and accumulate() functions. 
