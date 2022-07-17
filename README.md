@@ -51,3 +51,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 47. STL : Understanding count() and find() functions.
 48. STL : Understanding binary_search(), upper_bound() and lower_bound() functions.
 49. STL : Understanding the distance() function.
+50. STL : Understanding the multimap.
