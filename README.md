@@ -27,7 +27,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 23. Find the number of digits.
 24. Find the array average.
 25. Demonstrate the use of strcpy.
-26. Demostrate the use of strrev.
+26. Demostrate the use of strrev
 27. Find the strong number.
 28. Program to find the cube of a number.
 29. Program to generate random number.
