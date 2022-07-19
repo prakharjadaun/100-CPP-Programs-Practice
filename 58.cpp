@@ -1,9 +1,17 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
+void add100(int i)
+{
+    if(i%2==0)
+    {
+        i = i + 100;
+    }
+    std::cout<<i<<" ";
+}
 int main()
 {
-    //program to demonstrate the find_first_of() and find_if() 
+    //program to demonstrate the find_first_of(), find_if() and for_each() function 
     std::vector<int> v = {1,999,3,4,5,6};
     std::vector<int> v2 = {9,8,7,1,999,3};
 
@@ -18,5 +26,9 @@ int main()
     //returns 4 because even number exists at 4th element 
     std::cout<<*std::find_if(v.begin(),v.end(),[](int i){if(i%2==0)return true;
     else return false;});
+
+    //for_each() 
+    std::cout<<"Vector v : ";
+    std::for_each(v.begin(),v.end(),add100);
     return 0;
 }
