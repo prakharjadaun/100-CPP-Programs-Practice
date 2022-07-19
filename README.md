@@ -34,31 +34,33 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 30. Program to check if strings are anagram.
 31. Program to toggle case.
 32. Program to get number of vowels and consonants.
-33. STL: Demonstrating Vectors.
-34. STL: Insertion and Deletion in vectors.
-35. STL: Demonstrating the functions of cctype library.
-36. STL: Demonstrating the list library.
-37. STL: Understanding the use of end() func. under the list.
-38. STL: Sorting a list.
-39. STL: Using a Map.
-40. STL: Understaing queues of std library.
-41. STL: Understanding the Deque functions of the STL library.
-42. STL : Understanding the bitset.
+33. STL : Vectors.
+34. STL : Insertion and Deletion in vectors.
+35. STL : cctype library.
+36. STL : List 
+37. STL : Understanding the use of end() func. under the list.
+38. STL : Sorting a list.
+39. STL : Map
+40. STL : Queues 
+41. STL : Deque 
+42. STL : Bitset.
 43. STL : Priority Queue
-44. STL : Understanding properties of Sets
-45. STL : Stack Functions
-46. STL : Understanding *min_element(), *max_element(), sort(), reverse() and accumulate() functions. 
-47. STL : Understanding count(), count_if(), find() and find_end() functions.
-48. STL : Understanding binary_search(), upper_bound() and lower_bound() functions.
-49. STL : Understanding the distance() function.
-50. STL : Understanding the multimap.
-51. STL : Understanding the multiset.
-52. STL : Understanding make_heap(), push_heap(), pop_heap(), sort_heap() and is_heap() functions. 
-53. STL : Understanding the adjacent_find() function.
-54. STL : Understanding the copy() and copy_n() function.
-55. STL : Understanding the copy_if() and copy_backward() function.
-56. STL : Understanding the equal and equal_range() func. 
-57. STL : Understanding the fill() and fill_n()
-58. STL : Understanding the find_first_of(), find_if and for_each()
-59. STL : Understanding the generate(), generate_n() and includes()
-60. STL : Understanding the merge() and inplace_merge()
+44. STL : Sets
+45. STL : Stack 
+46. STL : *min_element(), *max_element(), sort(), reverse() and accumulate() functions. 
+47. STL : count(), count_if(), find() and find_end() functions.
+48. STL : binary_search(), upper_bound() and lower_bound() functions.
+49. STL : distance() function.
+50. STL : Multimap.
+51. STL : Multiset.
+52. STL : make_heap(), push_heap(), pop_heap(), sort_heap() and is_heap() functions. 
+53. STL : adjacent_find() function.
+54. STL : copy() and copy_n() function.
+55. STL : copy_if() and copy_backward() function.
+56. STL : equal and equal_range() func. 
+57. STL : fill() and fill_n()
+58. STL : find_first_of(), find_if and for_each()
+59. STL : generate(), generate_n() and includes()
+60. STL : merge() and inplace_merge()
+61. STL : iter_swap() and lexicographical_compare()
+61. STL : mismatch()
