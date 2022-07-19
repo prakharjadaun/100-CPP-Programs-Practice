@@ -48,7 +48,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 44. STL : Understanding properties of Sets
 45. STL : Stack Functions
 46. STL : Understanding *min_element(), *max_element(), sort(), reverse() and accumulate() functions. 
-47. STL : Understanding count() and find() functions.
+47. STL : Understanding count(), count_if(), find() and find_end() functions.
 48. STL : Understanding binary_search(), upper_bound() and lower_bound() functions.
 49. STL : Understanding the distance() function.
 50. STL : Understanding the multimap.
