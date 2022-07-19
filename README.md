@@ -57,3 +57,8 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 53. STL : Understanding the adjacent_find() function.
 54. STL : Understanding the copy() and copy_n() function.
 55. STL : Understanding the copy_if() and copy_backward() function.
+56. STL : Understanding the equal and equal_range() func. 
+57. STL : Understanding the fill() and fill_n()
+58. STL : Understanding the find_first_of(), find_if and for_each()
+59. STL : Understanding the generate(), generate_n() and includes()
+60. STL : Understanding the merge() and inplace_merge()
