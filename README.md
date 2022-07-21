@@ -61,7 +61,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 57. STL : fill() and fill_n()
 58. STL : find_first_of(), find_if and for_each()
 59. STL : generate(), generate_n() and includes()
-60. STL : merge() and inplace_merge()
+60. STL : merge() and inplace_merge().
 61. STL : iter_swap() and lexicographical_compare()
 62. STL : mismatch()
 63. STL : next_permutation() and prev_permutation()
