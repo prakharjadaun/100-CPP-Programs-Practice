@@ -34,7 +34,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 30. Program to check if strings are anagram.
 31. Program to toggle case.
 32. Program to get number of vowels and consonants.
-33. STL : Vectors.
+33. STL : Vectors
 34. STL : Insertion and Deletion in vectors.
 35. STL : cctype library.
 36. STL : List 
