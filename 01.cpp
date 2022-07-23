@@ -12,6 +12,6 @@ int main()
         cout<<"  "<<res;
         temp = var;
         var = res;
-    }
+    } 
     return 0;
 }
