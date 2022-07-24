@@ -37,27 +37,27 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 33. STL : Vectors
 34. STL : Insertion and Deletion in vectors.
 35. STL : cctype library.
-36. STL : List 
+36. STL : List
 37. STL : Understanding the use of end() func. under the list.
 38. STL : Sorting a list.
 39. STL : Map
-40. STL : Queues 
-41. STL : Deque 
+40. STL : Queues
+41. STL : Deque
 42. STL : Bitset.
 43. STL : Priority Queue
 44. STL : Sets
-45. STL : Stack 
-46. STL : *min_element(), *max_element(), sort(), reverse() and accumulate() functions. 
+45. STL : Stack
+46. STL : *min_element(),*max_element(), sort(), reverse() and accumulate() functions.
 47. STL : count(), count_if(), find() and find_end() functions.
 48. STL : binary_search(), upper_bound() and lower_bound() functions.
 49. STL : distance() function.
 50. STL : Multimap.
 51. STL : Multiset.
-52. STL : make_heap(), push_heap(), pop_heap(), sort_heap() and is_heap() functions. 
+52. STL : make_heap(), push_heap(), pop_heap(), sort_heap() and is_heap() functions.
 53. STL : adjacent_find() function.
 54. STL : copy() and copy_n() function.
 55. STL : copy_if() and copy_backward() function.
-56. STL : equal and equal_range() func. 
+56. STL : equal and equal_range() func.
 57. STL : fill() and fill_n()
 58. STL : find_first_of(), find_if and for_each()
 59. STL : generate(), generate_n() and includes()
@@ -76,3 +76,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 72. STL : set_difference(), set_intersection(), set_symmetric_difference() and set_union()
 73. STL : swap() and swap_ranges()
 74. STL : unique() and unique_copy()
+75. Templates : Intro to generic functions
