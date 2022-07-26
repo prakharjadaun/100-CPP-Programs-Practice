@@ -82,3 +82,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 78. Templates : Overloading a function template.
 79. Templates : Using Standard parameters with template functions.
 80. Templates : Generic functions restrictions.
+81. Templates : Sorting through a generic function.
