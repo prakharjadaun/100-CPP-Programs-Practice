@@ -89,4 +89,5 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 85. Exception Handling : How an exception can be thrown out of try block?
 86. Exception Handling : How to handle an exception locally?
 87. Exception Handling : What if no exception is generated or thrown?
-88. Exception Handling : Catching Class Types
+88. Exception Handling : Catching Class Types.
+89. Exception Handling : Multiple Catch blocks.
