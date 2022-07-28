@@ -93,3 +93,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 89. Exception Handling : Multiple Catch blocks.
 90. Exception Handling : Handling Derived Class Exceptions.
 91. Exception Handling : Catching all exceptions with a single catch block.
+92. Exception Handling : Restricting Exceptions.
