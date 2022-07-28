@@ -84,3 +84,4 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 80. Templates : Generic functions restrictions.
 81. Templates : Sorting through a generic function.
 82. Templates : Understanding generic classes using stack.
+83. Exception Handling : Basics of Exception handling.
