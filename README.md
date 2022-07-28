@@ -98,7 +98,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 94. Exception Handling : Setting a new terminate handler.
 95. Exception Handling : Applying exception handling.
 96. File Handling : Writing into a file.
-97. File Handling : Reading from a file.
+97. File Handling : Reading from a file
 98. File Handling : Reading from a file using getline().
 99. File Handling : Reading from a file using seekg().
 100. File handling : Writing into a file using seekp().
