@@ -75,7 +75,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 71. STL : search() and search_n()
 72. STL : set_difference(), set_intersection(), set_symmetric_difference() and set_union()
 73. STL : swap() and swap_ranges()
-74. STL : unique() and unique_copy()
+74. STL : unique() and unique_copy().
 75. Templates : Intro to generic functions
 76. Templates : Generic function with two generic types.
 77. Templates : Explicitly overloading a generic function.
