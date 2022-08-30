@@ -2,6 +2,9 @@
 
 This repository contains 100 practice programs that I have implemented in C/C++. As one should always adhere to the basics, these are some basic programs each programmer should know :
 
+<details>
+<summary><b>Basic Programs in CPP</b></summary>
+
 1. Program to find Fibonacci numbers.
 2. Check if a number is prime or not.
 3. Check if number is palindrome or not.
@@ -34,6 +37,11 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 30. Program to check if strings are anagram.
 31. Program to toggle case.
 32. Program to get number of vowels and consonants.
+
+</details>
+<details>
+<summary><b>STL programs</b></summary>
+
 33. STL : Vectors
 34. STL : Insertion and Deletion in vectors.
 35. STL : cctype library.
@@ -76,6 +84,12 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 72. STL : set_difference(), set_intersection(), set_symmetric_difference() and set_union()
 73. STL : swap() and swap_ranges()
 74. STL : unique() and unique_copy().
+
+</details>
+
+<details>
+<summary><b>Templates in C++</b></summary>
+
 75. Templates : Intro to generic functions
 76. Templates : Generic function with two generic types.
 77. Templates : Explicitly overloading a generic function.
@@ -84,6 +98,12 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 80. Templates : Generic functions restrictions.
 81. Templates : Sorting through a generic function.
 82. Templates : Understanding generic classes using stack.
+
+</details>
+
+<details>
+<summary><b>Exception Handling in C++</b></summary>
+
 83. Exception Handling : Basics of Exception handling.
 84. Exception Handling : Example of Unhandled Exception.
 85. Exception Handling : How an exception can be thrown out of try block?
@@ -97,8 +117,15 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 93. Exception Handling : Rethrowing an Exception.
 94. Exception Handling : Setting a new terminate handler.
 95. Exception Handling : Applying exception handling.
+</details>
+
+<details>
+<summary><b>File Handling in C++</b></summary>
+
 96. File Handling : Writing into a file.
 97. File Handling : Reading from a file.
 98. File Handling : Reading from a file using getline().
 99. File Handling : Reading from a file using seekg().
 100. File handling : Writing into a file using seekp().
+
+</details>
