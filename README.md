@@ -10,7 +10,7 @@ This repository contains 100 practice programs that I have implemented in C/C++.
 6. Program to find sum of digits.
 7. Reverse a number.
 8. Swap Numbers in C.
-9. Program without main.
+9. Program without main
 10. Program for decimal to binary.
 11. Check if number is positive or negative
 12. Program to find greatest of 3 numbers.
